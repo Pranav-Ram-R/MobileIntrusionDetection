@@ -1,0 +1,10 @@
+# Simulink build caches and generated code (rebuilt automatically)
+slprj/
+*.slxc
+*_ert_rtw/
+*.asv
+*.autosave
+
+# Logs from background MATLAB runs
+_log_*.txt
+_done_*.txt
